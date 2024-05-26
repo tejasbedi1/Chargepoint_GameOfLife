@@ -20,7 +20,9 @@ This is a Java implementation of Conway's Game of Life, a cellular automaton dev
 
 1. Clone the repository or download the source code.
 2. Open a terminal and navigate to the directory containing the source code.
-3. Compile the Java file:
-   javac GameOfLife.java
-4  Run the program with
-   java GameOfLife
+3. Compile & Run the Java file with:
+   
+```
+   javac .\GameOfLife.java
+   java .\GameOfLife.java
+```
