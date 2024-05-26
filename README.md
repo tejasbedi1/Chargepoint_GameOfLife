@@ -1,6 +1,6 @@
 # Chargepoint's Game of Life Java
 
-This is a Java implementation of Conway's Game of Life, a cellular automaton devised by mathematician John Conway.
+This is a Java implementation of Game of Life, for Chargepoint.
 
 ## Features
 
