@@ -26,3 +26,9 @@ This is a Java implementation of Conway's Game of Life, a cellular automaton dev
    javac .\GameOfLife.java
    java .\GameOfLife.java
 ```
+
+## In Action
+
+![IMG-1](/GOL_input.png)
+![IMG-2](/GOL_glider.png)
+![IMG-3](/GOL_pulsar.png)
