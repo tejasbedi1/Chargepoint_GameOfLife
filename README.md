@@ -1,6 +1,7 @@
 # Chargepoint's Game of Life Java
 
 This is a Java implementation of Game of Life, for Chargepoint.
+I had fun making this, I do hope you use it once.
 
 ## Features
 
